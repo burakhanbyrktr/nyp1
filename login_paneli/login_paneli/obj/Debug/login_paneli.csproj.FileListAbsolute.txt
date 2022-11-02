@@ -1,0 +1,11 @@
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\Yeni klasör (2)\login_paneli\login_paneli\bin\Debug\login_paneli.exe.config
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\Yeni klasör (2)\login_paneli\login_paneli\bin\Debug\login_paneli.exe
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\Yeni klasör (2)\login_paneli\login_paneli\bin\Debug\login_paneli.pdb
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\Yeni klasör (2)\login_paneli\login_paneli\obj\Debug\login_paneli.csproj.AssemblyReference.cache
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\Yeni klasör (2)\login_paneli\login_paneli\obj\Debug\login_paneli.Form1.resources
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\Yeni klasör (2)\login_paneli\login_paneli\obj\Debug\login_paneli.Properties.Resources.resources
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\Yeni klasör (2)\login_paneli\login_paneli\obj\Debug\login_paneli.csproj.GenerateResource.cache
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\Yeni klasör (2)\login_paneli\login_paneli\obj\Debug\login_paneli.csproj.CoreCompileInputs.cache
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\Yeni klasör (2)\login_paneli\login_paneli\obj\Debug\login_paneli.exe
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\Yeni klasör (2)\login_paneli\login_paneli\obj\Debug\login_paneli.pdb
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\Yeni klasör (2)\login_paneli\login_paneli\obj\Debug\login_paneli.Form2.resources
