@@ -1,0 +1,10 @@
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\k\asalsayıbulma\asalsayıbulma\bin\Debug\asalsayıbulma.exe.config
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\k\asalsayıbulma\asalsayıbulma\bin\Debug\asalsayıbulma.exe
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\k\asalsayıbulma\asalsayıbulma\bin\Debug\asalsayıbulma.pdb
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\k\asalsayıbulma\asalsayıbulma\obj\Debug\asalsayıbulma.csproj.AssemblyReference.cache
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\k\asalsayıbulma\asalsayıbulma\obj\Debug\asalsayıbulma.Form1.resources
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\k\asalsayıbulma\asalsayıbulma\obj\Debug\asalsayıbulma.Properties.Resources.resources
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\k\asalsayıbulma\asalsayıbulma\obj\Debug\asalsayıbulma.csproj.GenerateResource.cache
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\k\asalsayıbulma\asalsayıbulma\obj\Debug\asalsayıbulma.csproj.CoreCompileInputs.cache
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\k\asalsayıbulma\asalsayıbulma\obj\Debug\asalsayıbulma.exe
+C:\Users\burakhan\OneDrive - uludag.edu.tr\Masaüstü\k\asalsayıbulma\asalsayıbulma\obj\Debug\asalsayıbulma.pdb
